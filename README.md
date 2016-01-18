@@ -4,7 +4,7 @@ This is how you connect to a MySQL database and perform raw queries - *using pla
 
 ## Requirements
 
-At least PHP 5.1
+PHP version 5.1+
 
 ## Techniques used
 
