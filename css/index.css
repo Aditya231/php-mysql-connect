@@ -1,8 +1,8 @@
 table, td {
-    font-family: sans-serif;
-    font-size: 14px;
-    line-height: 1.6;
-    color: black;
+    font-family: sans-serif, oswald;/* I Prefer Oswald theme because its good,clean and is brought by google fonts !*/
+    font-size: 15px;
+    line-height: 1.8;
+    color: yellow;
     border: 1px solid #aaa;
 }
 table {
